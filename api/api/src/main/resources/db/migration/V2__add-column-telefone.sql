@@ -1,0 +1,1 @@
+alter table nutricionistas add telefone varchar(20) not null;
